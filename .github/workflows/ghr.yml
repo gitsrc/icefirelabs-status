@@ -11,12 +11,16 @@ jobs:
   j1:
     name: github-repo-stats
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # The repositories to generate reports for.
+        statsRepo: ['IceFireDB/IceFireDB','IceFireDB/redhub', 'RedTimeDB/RedTimeProxy']
     steps:
       - name: github-repo-stats
         uses: jgehrcke/github-repo-stats@v1.3.0
         with:
           ghpagesprefix: https://gitsrc.github.io/icefiredb-status
-          repository: IceFireDB/IceFireDB
+          repository: ${{ matrix.statsRepo }}
           # Required token privileges: Can read the target
           # repo, and can push to the repository this
           # workflow file lives in (to store data and
