@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['IceFireDB/IceFireDB','IceFireDB/redhub', 'RedTimeDB/RedTimeProxy']
+        statsRepo: ['IceFireDB/IceFireDB','IceFireDB/redhub','IceFireDB/IceFireDB-Proxy', 'RedTimeDB/RedTimeProxy']
     steps:
       - name: github-repo-stats
         uses: jgehrcke/github-repo-stats@v1.3.0
