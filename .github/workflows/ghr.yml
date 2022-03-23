@@ -15,9 +15,7 @@ jobs:
       - name: github-repo-stats
         uses: jgehrcke/github-repo-stats@v1.3.0
         with:
-					# https://名称.github.io/仓库名称
           ghpagesprefix: https://gitsrc.github.io/icefiredb-status
-          # 采集的项目名称
           repository: IceFireDB/IceFireDB
           # Required token privileges: Can read the target
           # repo, and can push to the repository this
