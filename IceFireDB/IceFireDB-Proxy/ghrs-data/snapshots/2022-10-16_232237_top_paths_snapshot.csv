@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IceFireDB/IceFireDB-Proxy,7,3
+/IceFireDB/IceFireDB-Proxy/tree/main/pkg/cache,3,1
+/IceFireDB/IceFireDB-Proxy/blob/main/cmd/proxy/main.go,2,1
+/IceFireDB/IceFireDB-Proxy/tree/main/cmd/proxy,2,1
+/IceFireDB/IceFireDB-Proxy/blob/main/go.mod,1,1
+/IceFireDB/IceFireDB-Proxy/blob/main/Makefile,1,1
+/IceFireDB/IceFireDB-Proxy/blob/main/pkg/cache/cache.go,1,1
+/IceFireDB/IceFireDB-Proxy/blob/main/pkg/monitor/bigkey.go,1,1
+/IceFireDB/IceFireDB-Proxy/blob/main/pkg/monitor/netstat.go,1,1
+/IceFireDB/IceFireDB-Proxy/blob/main/proxy/proxy.go,1,1
