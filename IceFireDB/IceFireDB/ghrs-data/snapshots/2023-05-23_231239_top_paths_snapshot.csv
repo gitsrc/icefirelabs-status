@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IceFireDB/IceFireDB,117,67
+/IceFireDB/IceFireDB/issues/452,18,5
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite,17,10
+/IceFireDB/IceFireDB/pulls,14,1
+/IceFireDB/IceFireDB/issues,12,4
+/IceFireDB/IceFireDB/tree/main/IceFireDB-Redis-Proxy,8,1
+/IceFireDB/IceFireDB/blob/main/IceFireDB-Redis-Proxy/pkg/router/mapper.go,6,1
+/IceFireDB/IceFireDB/blob/main/IceFireDB-SQLite/internal/sqlite/db.go,6,1
+/IceFireDB/IceFireDB/stargazers,6,1
+/IceFireDB/IceFireDB/blob/main/go.mod,5,2
