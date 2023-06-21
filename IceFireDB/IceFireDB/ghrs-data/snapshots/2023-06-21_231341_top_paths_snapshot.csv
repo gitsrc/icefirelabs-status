@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/IceFireDB/IceFireDB,96,55
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite,29,6
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLProxy,9,4
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite/db,8,2
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite/config,7,2
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite/pkg,7,2
+/IceFireDB/IceFireDB/pulls,7,1
+/IceFireDB/IceFireDB/tree/main/IceFireDB-Redis-Proxy,6,2
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite/internal,6,2
+/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite/pkg/p2p,6,2
