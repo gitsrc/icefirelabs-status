@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: github-repo-stats
-        uses: jgehrcke/github-repo-stats@v1.3.0
+        uses: jgehrcke/github-repo-stats@v1.4.2
         with:
           ghpagesprefix: https://gitsrc.github.io/icefiredb-status
           repository: IceFireDB/IceFireDB
