@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/wasmate/wasmate-runtime/stargazers,17,1
+/wasmate/wasmate-runtime,10,4
+/wasmate/wasmate-runtime/tree/main/core/wmr,7,1
+/wasmate/wasmate-runtime/tree/main/pkg,7,1
+/wasmate/wasmate-runtime/tree/main/pkg/starknetutils,6,1
+/wasmate/wasmate-runtime/blob/main/pkg/starknetutils/client.go,4,1
+/wasmate/wasmate-runtime/tree/main/pkg/ipfs,4,1
+/wasmate/wasmate-runtime/blob/ce5599af724cd4f781acecd75e541703941163c4/starknet_contracts/README.md,2,1
+/wasmate/wasmate-runtime/blob/main/cmd/wasmate-runtime/main.go,2,1
+/wasmate/wasmate-runtime/blob/main/core/wmr/wmr.go,2,1
