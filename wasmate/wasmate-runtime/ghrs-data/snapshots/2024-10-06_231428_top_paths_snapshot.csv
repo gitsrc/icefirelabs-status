@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/wasmate/wasmate-runtime,12,6
+/wasmate/wasmate-runtime/stargazers,5,1
+/wasmate/wasmate-runtime/tree/main/config,4,2
+/wasmate/wasmate-runtime/tree/main/pkg/starknetutils,4,2
+/wasmate/wasmate-runtime/blob/main/config/hello.wasm,3,2
+/wasmate/wasmate-runtime/blob/main/pkg/starknetutils/client.go,3,2
+/wasmate/wasmate-runtime/tree/main/pkg,3,2
+/wasmate/wasmate-runtime/tree/main/starknet_contracts,3,2
+/wasmate/wasmate-runtime/commits/main,3,1
+/wasmate/wasmate-runtime/tree/main/cmd/wasmate-runtime,2,2
